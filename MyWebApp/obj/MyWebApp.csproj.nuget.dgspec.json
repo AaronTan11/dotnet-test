@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aaron/Developer/dotnet-test/MyWebApp/MyWebApp.csproj": {}
+    "C:\\Users\\User\\Documents\\dotnet-test\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "/Users/aaron/Developer/dotnet-test/MyWebApp/MyWebApp.csproj": {
+    "C:\\Users\\User\\Documents\\dotnet-test\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aaron/Developer/dotnet-test/MyWebApp/MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\dotnet-test\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "/Users/aaron/Developer/dotnet-test/MyWebApp/MyWebApp.csproj",
-        "packagesPath": "/Users/aaron/.nuget/packages/",
-        "outputPath": "/Users/aaron/Developer/dotnet-test/MyWebApp/obj/",
+        "projectPath": "C:\\Users\\User\\Documents\\dotnet-test\\MyWebApp\\MyWebApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\dotnet-test\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aaron/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
