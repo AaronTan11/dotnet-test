@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhnzpni5W/49cUAoYCxCdLkiEkGl8JMLYPQ+sD4LCELbQuEXOAL3cqrn/rdOPqXIFHkQ0pBNirAcgqQDXZ9vwA==",
+  "dgSpecHash": "AVQuMIueXfdt4S/sokUNdzxk8o9rYoxNJ6+lPNyT9QZCXPYYWNXRGyUBazfafAH3f2xMKK5vE+QuvHWsRnD+mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\dotnet-test\\MyWebApp\\MyWebApp.csproj",
+  "projectFilePath": "/Users/aaron/Developer/dotnet-test/dotnet-test/MyWebApp/MyWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
