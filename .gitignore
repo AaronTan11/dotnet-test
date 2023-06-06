@@ -1,5 +1,6 @@
-MyWebApp/bin/*
-MyWebApp/obj/*
-MyWebApp/.vscode/*
+dotnet/bin/*
+dotnet/obj/*
+dotnet/.vscode/*
+dotnet/.vs/*
 .vscode/*
 
