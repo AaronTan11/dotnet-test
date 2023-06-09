@@ -4,3 +4,5 @@ dotnet/.vscode/*
 dotnet/.vs/*
 .vscode/*
 
+
+.fake
