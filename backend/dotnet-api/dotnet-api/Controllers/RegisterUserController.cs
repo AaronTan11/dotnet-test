@@ -15,12 +15,11 @@ public class RegisterUserController : ControllerBase{
     }
 
     [HttpPost(Name = "PostUser")]
-    public IActionResult Index([FromQuery] User user){
-        // Perform verification and validation on the user input
+    public async Task<IActionResult> RegisterUser([FromQuery] User user){
 
         // Add the user to the database
         _dbContext.User.Add(user);
-        int affectedRows = _dbContext.SaveChanges();
+        int affectedRows = await _dbContext.SaveChangesAsync();
 
         if (affectedRows > 0)
         {
